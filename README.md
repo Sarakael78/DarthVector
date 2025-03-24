@@ -28,7 +28,7 @@ DarthVector is a powerful document processing and vector embedding application d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DarthVector.git
+git clone https://github.com/Sarakael78/DarthVector.git
 cd DarthVector
 ```
 
